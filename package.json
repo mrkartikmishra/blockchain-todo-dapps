@@ -1,0 +1,24 @@
+{
+  "name": "blockchain-todo-dapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkartikmishra/blockchain-todo-dapps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkartikmishra/blockchain-todo-dapps/issues"
+  },
+  "homepage": "https://github.com/mrkartikmishra/blockchain-todo-dapps#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  }
+}
